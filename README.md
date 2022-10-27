@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kamilsalikhov75
+- 👀 I’m interested in fron frontend development
+- 🌱 I’m currently learning JavaScript
